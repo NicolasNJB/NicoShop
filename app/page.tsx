@@ -27,7 +27,7 @@ export default function Home() {
     {/* cartas de productos */}
     <div className="flex mt-2 flex-wrap">
       {/* Card 1 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -43,7 +43,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 2 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -59,7 +59,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 3 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -75,7 +75,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 4 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -91,7 +91,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 5 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -107,7 +107,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 6 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -123,7 +123,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 7 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
@@ -139,7 +139,7 @@ export default function Home() {
         </div>
       </div>
       {/* Card 8 */}
-      <div className="card bg-base-100 w-1/4 shadow-sm">
+      <div className="card bg-base-100 w-full md:w-1/2 lg:w-1/4 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
