@@ -57,7 +57,12 @@ export default function Home() {
         <p className="mb-5">
         Llegá más lejos con soluciones creativas, ágiles y a medida. Diseño, estrategia y tecnología trabajando para vos.
         </p>
-        <button className="btn btn-primary">Empezar ahora</button>
+        <a
+         href="https://wa.me/5493522415853"  
+         target="_blank"
+         rel="noopener noreferrer"> 
+        <button className="btn btn-primary">Nuestro Whatsapp!</button>
+        </a>
       </div>
     </div>
   </div>
