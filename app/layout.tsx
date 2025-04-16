@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {/* Navbar */}
-        <div className="navbar bg-base-100 shadow-sm">
+        <div className="navbar fixed z-[100] bg-base-100 shadow-sm">
           <div className="flex-1">
             <a className="btn btn-ghost text-xl">NicoShop</a>
           </div>
