@@ -58,7 +58,7 @@ export default function Home() {
         Llegá más lejos con soluciones creativas, ágiles y a medida. Diseño, estrategia y tecnología trabajando para vos.
         </p>
         <a
-         href="https://wa.me/5493522415853"  
+         href="https://wa.me/5493522415853?text=Hola%2C%20estoy%20interesado%20en%20los%20productos%20de%20tu%20tienda%20en%20l%C3%ADnea.%20%C2%BFPodr%C3%ADas%20darme%20m%C3%A1s%20informaci%C3%B3n%3F"  
          target="_blank"
          rel="noopener noreferrer"> 
         <button className="btn btn-primary">Nuestro Whatsapp!</button>
@@ -87,7 +87,7 @@ export default function Home() {
               <h2 className="card-title">{item.title}</h2>
               <p>{item.description}</p>
               <div className="card-actions">
-                <button className="btn btn-primary">Comprar</button>
+                <button className="btn btn-primary">Ver Productos</button>
               </div>
             </div>
           </div>
