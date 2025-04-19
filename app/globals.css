@@ -18,3 +18,37 @@ body {
 
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+
+.padre{
+  justify-content: space-evenly;
+  align-items: flex-start;
+  display: flex;
+  width: 600px;
+  height: 400px;
+  background-color: red;
+}
+.hijo{
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.hijo2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  
+}
+.nieto{
+  width: 200px;
+  height: 100px;
+  background-color: blue;
+}
+.nieto2{
+  width: 200px;
+  height: 100px;
+  background-color: green;
+}
